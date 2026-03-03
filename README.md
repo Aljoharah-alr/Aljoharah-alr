@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**Aljoharah-alr/Aljoharah-alr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Credit Card Default Prediction
 
@@ -22,17 +18,16 @@ Install all dependencies using:
 
 pip install -r requirements.txt
 
-Python version used: 3.11
 
 ## How to Run
 1. Clone this repository
 2. Install dependencies using the command above
-3. Open Analytics.ipynb in Jupyter Notebook or JupyterLab
+3. Open PredictiveAnalytics.ipynb in Jupyter Notebook or JupyterLab
 4. Run all cells from top to bottom in order
 
 ## Project Structure
-- Analytics.ipynb — main notebook containing all code and analysis
+- PredictiveAnalytics.ipynb — main notebook containing all code and analysis
 - default of credit card clients.xls — dataset
 - requirements.txt — Python dependencies
 - README.md — this file
--->
+  
